@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Calistoga&family=Hammersmith+One&display=swap');
+
+
+@import "tailwindcss";
+
+@theme{
+    --font-calistoga: 'Calistoga', sans-serif;
+    --font-jetbrains: 'JetBrains Mono', monospace;
+    --font-hammersmith: 'Hammersmith One', sans-serif;
+
+    --color-background: #0A192F;  /*Fondo negro claro */
+    --color-textColor1: #8892B0;  /*Color texto gris*/
+    --color-textColor2: #CCD6F6;   /*Color texto gris claro*/
+    --color-textColor3: #64FFDA;    /*Color texto verde marino*/
+    --color-textColor4: #4A90E2;    /*Color texto azul marino*/
+}
